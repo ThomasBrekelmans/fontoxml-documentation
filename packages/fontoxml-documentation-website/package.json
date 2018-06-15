@@ -1,0 +1,19 @@
+{
+  "name": "fontoxml-documentation-website",
+  "version": "0.0.1",
+  "description": "The website for fontoxml-documentation that displays the documentation, uses gatsby.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasBrekelmans/fontoxml-documentation.git"
+  },
+  "author": "Thomas Brekelmans | FontoXML",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThomasBrekelmans/fontoxml-documentation/issues"
+  },
+  "homepage": "https://github.com/ThomasBrekelmans/fontoxml-documentation#readme"
+}

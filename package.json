@@ -1,0 +1,10 @@
+{
+	"scripts": {
+		"postinstall": "npx lerna bootstrap",
+		"start": "node ./packages/fontoxml-documentation-website/index.js",
+		"test": "node ./packages/fontoxml-documentation-e2e-tester/index.js"
+	},
+	"devDependencies": {
+		"lerna": "^2.11.0"
+	}
+}

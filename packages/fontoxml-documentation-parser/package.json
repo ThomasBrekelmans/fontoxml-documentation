@@ -1,0 +1,19 @@
+{
+  "name": "fontoxml-documentation-parser",
+  "version": "0.0.1",
+  "description": "The AST parser for fontoxml documentation, uses babel.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasBrekelmans/fontoxml-documentation.git"
+  },
+  "author": "Thomas Brekelmans | FontoXML",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThomasBrekelmans/fontoxml-documentation/issues"
+  },
+  "homepage": "https://github.com/ThomasBrekelmans/fontoxml-documentation#readme"
+}
