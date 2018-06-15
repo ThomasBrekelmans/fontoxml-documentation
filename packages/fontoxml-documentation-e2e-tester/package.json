@@ -1,6 +1,6 @@
 {
   "name": "fontoxml-documentation-e2e-tester",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "End to end tester for fontoxml documentation. Uses the parser and some example packages to generate documentation from and displays it using the website.",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ThomasBrekelmans/fontoxml-documentation#readme",
   "dependencies": {
-    "fontoxml-documentation-parser": "^0.0.1",
-    "fontoxml-documentation-website": "^0.0.1"
+    "fontoxml-documentation-parser": "^0.0.2",
+    "fontoxml-documentation-website": "^0.0.2"
   }
 }

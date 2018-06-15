@@ -1,6 +1,6 @@
 {
   "name": "fontoxml-documentation-website",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The website for fontoxml-documentation that displays the documentation, uses gatsby.",
   "main": "index.js",
   "scripts": {

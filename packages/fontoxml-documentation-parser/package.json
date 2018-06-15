@@ -1,6 +1,6 @@
 {
   "name": "fontoxml-documentation-parser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The AST parser for fontoxml documentation, uses babel.",
   "main": "index.js",
   "scripts": {
