@@ -1,1 +1,0 @@
-// fontoxml-documentation-parser/index.js
